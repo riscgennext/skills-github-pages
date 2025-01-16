@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: this should be the frontend transition page
 ---
 
